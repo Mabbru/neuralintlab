@@ -14,11 +14,11 @@ For example, the objects in the following images were detected using [mmdetectio
 
 ## Dependencies (Level 3 Heading)
 
-/∙python
-/∙opencv-python
-/∙tensorflow
-/∙openmmlab
-/∙package manager
+\∙python
+\∙opencv-python
+\∙tensorflow
+\∙openmmlab
+\∙package manager
 
 ## Installation
 

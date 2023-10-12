@@ -1,8 +1,9 @@
 # Week6_lecture_note
 
+## Changesvs.Snapshots
+
 ![image](https://github.com/Mabbru/neuralintlab/assets/105326662/a3a5075e-9a31-4717-aa85-333442224c97)
 
-## Shell Command
 
 ### pwd : 
 shows the current path in hierarchical direcotory → 현재 위치를 보여주줌
@@ -12,7 +13,7 @@ change direcotory → 현재 위치를 변경함
 list files and direcotories → 현재 위치의 files 과 direcotoreies 을 list 형식으로 나열하여 보여줌
 ### clear :
 clear past commands → 화면정리
-![image](https://github.com/Mabbru/neuralintlab/assets/105326662/a3a5075e-9a31-4717-aa85-333442224c97)
+
 ### 추가적인 부분 
 ```sh
 $ arguments:  [directoryname]  /root  

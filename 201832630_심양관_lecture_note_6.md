@@ -1,5 +1,7 @@
 # Week6_lecture_note
 
+![image](https://github.com/Mabbru/neuralintlab/assets/105326662/a3a5075e-9a31-4717-aa85-333442224c97)
+
 ## Shell Command
 
 ### pwd : 
